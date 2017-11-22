@@ -1,0 +1,7 @@
+1 pulire i peoci
+2 cucinare i peoci
+3 fare el sugo
+4 fare la pasta
+5 tutto insieme
+6servire
+
